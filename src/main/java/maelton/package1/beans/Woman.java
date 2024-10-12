@@ -1,4 +1,4 @@
-package maelton.beans;
+package maelton.package1.beans;
 
 public class Woman {
     private String eyesColor;

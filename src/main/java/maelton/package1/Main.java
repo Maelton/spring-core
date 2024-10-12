@@ -1,8 +1,8 @@
-package maelton;
+package maelton.package1;
 
-import maelton.beans.Woman;
+import maelton.package1.beans.Woman;
+import maelton.package1.config.ProjectConfiguration;
 
-import maelton.config.ProjectConfiguration;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

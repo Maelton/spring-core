@@ -1,6 +1,6 @@
-package maelton.config;
+package maelton.package1.config;
 
-import maelton.beans.Woman;
+import maelton.package1.beans.Woman;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
